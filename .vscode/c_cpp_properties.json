@@ -13,7 +13,7 @@
                 "_UNICODE"
             ],
             "compilerPath": "D:\\VScodeAZ\\mingw64\\bin\\g++.exe",  // 编译器的路径
-            "cStandard": "gnu17",  // c标准
+            "cStandard": "gnu11",  // c标准
             "cppStandard": "c++11",  // c++标准
             "intelliSenseMode": "windows-gcc-x64",  // 编译器感知
             "configurationProvider": "ms-vscode.cmake-tools"
