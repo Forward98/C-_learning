@@ -12,3 +12,8 @@ C++学习
 3. 解决vscode一打开自动编译的问题：
 取消勾选 Cmake: Configure On Open
 
+4. 解决commit后无法同步到github上的问题：
+运行下列命令：
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+
