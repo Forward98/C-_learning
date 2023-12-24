@@ -17,3 +17,9 @@ C++学习
 git config --global --unset http.proxy
 git config --global --unset https.proxy
 
+2023.12.25 update:
+1. class_learn: 类和类的成员的构造和析构顺序
+2. class_learn2：基类和派生类的构造和析构顺序
+3. class_learn3：类的初始化列表
+
+
