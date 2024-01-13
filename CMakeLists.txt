@@ -19,7 +19,7 @@ set(EXECUTABLE_OUTPUT_PATH  ${PROJECT_SOURCE_DIR}/bin)
 
 #指定src文件中目标源文件的编译方法
 set(SRC_LIST
-        ./src/Class_learn3.cpp
+        ./src/try_catch.cpp
          )
 
 add_executable(myprint ${SRC_LIST})
