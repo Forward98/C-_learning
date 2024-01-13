@@ -28,6 +28,7 @@ git config --global --unset https.proxy
 2. merge develop
 
 
+2. checkout develop
 
 
 
