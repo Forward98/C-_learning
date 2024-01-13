@@ -24,10 +24,11 @@ git config --global --unset https.proxy
 
 
 2024.01.13 update:
-1. add develop branch
-2. merge develop
+1. virtual function learning.
+2. git learning
 
-3. checkout develop
+
+
 
 
 
