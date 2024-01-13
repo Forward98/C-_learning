@@ -24,10 +24,18 @@ git config --global --unset https.proxy
 
 
 2024.01.13 update:
-1. add develop branch
-2. merge develop
+1. virtual function learning.
+2. git learning
+3. 本地新建分支，然后push到远程仓库
+    git check -b dev
+    做一次提交
+    git push origin HEAD
 
-3. checkout develop
+ 
+
+
+
+
 
 
 
