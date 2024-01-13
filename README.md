@@ -31,6 +31,8 @@ git config --global --unset https.proxy
     做一次提交
     git push origin HEAD
 
+4. 合并分支，需要本地先合并好分支，然后删掉不用的分支，然后再git push, 同步到远程仓库
+
  
 
 
