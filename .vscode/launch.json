@@ -16,7 +16,7 @@
             "environment": [],
             "externalConsole": true, // 调试时是否显示控制台窗口，设置为true显示控制台  
             "MIMode": "gdb",
-            "miDebuggerPath": "D:\\VScodeAZ\\mingw64\\bin\\gdb.exe", // 调试器mingw64的安装路径  
+            "miDebuggerPath": "D:\\mingw64\\bin\\gdb.exe", // 调试器mingw64的安装路径  
             "preLaunchTask": "Build",
             "setupCommands": [
                 {

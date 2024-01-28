@@ -1,6 +1,8 @@
 # C-_learning
 C++学习
 
+拉取项目到本地后在src同级目录下新建build和bin文件夹
+
 1. vscode多文件编译运行步骤：
 (1) 在build路径下执行cmake -G "MinGW Makefiles" ..
 (2) 继续执行mingw32-make.exe
@@ -34,6 +36,9 @@ git config --global --unset https.proxy
 4. 合并分支，需要本地先合并好分支，然后删掉不用的分支，然后再git push, 同步到远程仓库
 
  
+2014.01.28 update：
+1. 给电脑重装了系统，在开了梯子的情况下没有办法拉取仓库，使用了这个教程的方法：
+https://blog.csdn.net/weixin_46191137/article/details/133739981
 
 
 
